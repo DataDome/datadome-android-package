@@ -4,7 +4,6 @@
   <groupId>co.datadome.sdk</groupId>
   <artifactId>sdk</artifactId>
   <version>1.6.3</version>
-  <packaging>aar</packaging>
   <description>Bot blocker for Android</description>
   <dependencies>
     <dependency>
