@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>co.datadome.sdk</groupId>
   <artifactId>sdk</artifactId>
-  <version>1.5.7</version>
+  <version>1.5.8</version>
   <description>Bot blocker for Android</description>
   <dependencies>
     <dependency>
