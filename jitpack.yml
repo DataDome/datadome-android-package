@@ -1,3 +1,3 @@
 install: 
   - FILE="-Dfile=sdk-release.aar"
-  - mvn install:install-file $FILE -DgroupId=co.datadome.sdk -DartifactId=sdk -Dversion=1.6.3 -Dpackaging=aar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=co.datadome.sdk -DartifactId=sdk -Dversion=1.6.4 -Dpackaging=aar -DgeneratePom=true
